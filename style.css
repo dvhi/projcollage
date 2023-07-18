@@ -1,0 +1,45 @@
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align: center;
+    background-color: aqua;
+}
+
+body {
+background-color: darkred;
+color:white;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    font-style:italic;
+    font-weight: bold;
+}
+
+h4{
+    color:lightsalmon;
+}
+
+#camera{
+    width:500px;
+    height: 400px;
+    border: 1px solid green;
+}
+
+img{
+    width: 47%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0px 6px 8px gray;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+.column{
+    display: inline;
+    padding:10px;
+}
